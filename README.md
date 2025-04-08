@@ -18,4 +18,4 @@
 
 [BrijeshPatelwildlife.pdf](https://github.com/user-attachments/files/19643793/BrijeshPatelwildlife.pdf)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/R5GykI150LdKP8NRZJtLLf/BrijeshPatelwildlife?node-id=1-2&starting-point-node-id=1%3A2&embed-host=share" allowfullscreen></iframe>
+
